@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES/MICROSOFT VISUAL STUDIO 11.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/CodeGenLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="代码生成/文本转换记录">
+  <MessageClass Name="Message" Label="消息" Option="显示提供相关信息的消息" />
+  <MessageClass Name="Warning" Label="警告" Option="显示警告" />
+  <MessageClass Name="Error" Label="错误" Option="显示错误" />
+  <MessageClass Name="Property" Label="属性" Option="显示元数据" />
+  <MessageClass Name="Diagnostic" Label="消息" Option="显示诊断消息" />
+  <Message Timestamp="2013-08-23T16:08:38" Importance="High" Text="已启动代码生成或文本转换。" />
+  <Message Timestamp="2013-08-23T16:08:38" Importance="Diagnostic" Text="名称 = ClassTemplate" />
+  <Message Timestamp="2013-08-23T16:08:38" Importance="Diagnostic" Text="覆盖 = True" />
+  <Message Timestamp="2013-08-23T16:08:38" Importance="Diagnostic" Text="ProjectPath = ..\ReviewModelProjectLib\ReviewModelProjectLib.csproj" />
+  <Message Timestamp="2013-08-23T16:08:38" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2013-08-23T16:08:38" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2013-08-23T16:08:38" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2013-08-23T16:08:38" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2013-08-23T16:08:38" Importance="Medium" Text="ReviewModelProject 的文本模板绑定:“ClassTemplate”会将 ClassTemplate.t4 应用于: “ReviewModelProject::Organization ”-  (Class), “ReviewModelProject::EnterPriseInfo”-  (Class), “ReviewModelProject::Dict_Enterprise_Property”-  (Class), “ReviewModelProject::Dict_AreaInfo”-  (Class), “ReviewModelProject::IndustryType_Desc”-  (Class), “ReviewModelProject::EnterPrise_Contact”-  (Class), “ReviewModelProject::IndustryType”-  (Class) " />
+  <Message Timestamp="2013-08-23T16:08:39" Importance="Medium" Text="“ReviewModelProject::Organization ”-  (Class) : 成功(已替换文件) - E:\文件\ReviewModelProject\ReviewModelProjectLib\GeneratedCode\Organization .cs" />
+  <Message Timestamp="2013-08-23T16:08:39" Importance="Medium" Text="“ReviewModelProject::EnterPriseInfo”-  (Class) : 成功(已替换文件) - E:\文件\ReviewModelProject\ReviewModelProjectLib\GeneratedCode\EnterPriseInfo.cs" />
+  <Message Timestamp="2013-08-23T16:08:39" Importance="Medium" Text="“ReviewModelProject::Dict_Enterprise_Property”-  (Class) : 成功(已替换文件) - E:\文件\ReviewModelProject\ReviewModelProjectLib\GeneratedCode\Dict_Enterprise_Property.cs" />
+  <Message Timestamp="2013-08-23T16:08:39" Importance="Medium" Text="“ReviewModelProject::Dict_AreaInfo”-  (Class) : 成功(已替换文件) - E:\文件\ReviewModelProject\ReviewModelProjectLib\GeneratedCode\Dict_AreaInfo.cs" />
+  <Message Timestamp="2013-08-23T16:08:39" Importance="Medium" Text="“ReviewModelProject::IndustryType_Desc”-  (Class) : 成功(已替换文件) - E:\文件\ReviewModelProject\ReviewModelProjectLib\GeneratedCode\IndustryType_Desc.cs" />
+  <Message Timestamp="2013-08-23T16:08:39" Importance="Medium" Text="“ReviewModelProject::EnterPrise_Contact”-  (Class) : 成功(已替换文件) - E:\文件\ReviewModelProject\ReviewModelProjectLib\GeneratedCode\EnterPrise_Contact.cs" />
+  <Message Timestamp="2013-08-23T16:08:39" Importance="Medium" Text="“ReviewModelProject::IndustryType”-  (Class) : 成功(已替换文件) - E:\文件\ReviewModelProject\ReviewModelProjectLib\GeneratedCode\IndustryType.cs" />
+  <Message Timestamp="2013-08-23T16:08:39" Importance="Diagnostic" Text="名称 = StructTemplate" />
+  <Message Timestamp="2013-08-23T16:08:39" Importance="Diagnostic" Text="覆盖 = True" />
+  <Message Timestamp="2013-08-23T16:08:39" Importance="Diagnostic" Text="ProjectPath = ..\ReviewModelProjectLib\ReviewModelProjectLib.csproj" />
+  <Message Timestamp="2013-08-23T16:08:39" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2013-08-23T16:08:39" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2013-08-23T16:08:39" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2013-08-23T16:08:39" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2013-08-23T16:08:39" Importance="Medium" Text="ReviewModelProject 的文本模板绑定:“StructTemplate”会将 StructTemplate.t4 应用于: “ReviewModelProject::Organization ”-  (Class), “ReviewModelProject::EnterPriseInfo”-  (Class), “ReviewModelProject::Dict_Enterprise_Property”-  (Class), “ReviewModelProject::Dict_AreaInfo”-  (Class), “ReviewModelProject::IndustryType_Desc”-  (Class), “ReviewModelProject::EnterPrise_Contact”-  (Class), “ReviewModelProject::IndustryType”-  (Class) " />
+  <Message Timestamp="2013-08-23T16:08:39" Importance="Diagnostic" Text="“ReviewModelProject::Organization ”-  (Class): 没有生成任何文件，因为模板“StructTemplate.t4”的“AppliesToElement”方法的计算结果为 false。" />
+  <Message Timestamp="2013-08-23T16:08:39" Importance="Diagnostic" Text="“ReviewModelProject::EnterPriseInfo”-  (Class): 没有生成任何文件，因为模板“StructTemplate.t4”的“AppliesToElement”方法的计算结果为 false。" />
+  <Message Timestamp="2013-08-23T16:08:39" Importance="Diagnostic" Text="“ReviewModelProject::Dict_Enterprise_Property”-  (Class): 没有生成任何文件，因为模板“StructTemplate.t4”的“AppliesToElement”方法的计算结果为 false。" />
+  <Message Timestamp="2013-08-23T16:08:39" Importance="Diagnostic" Text="“ReviewModelProject::Dict_AreaInfo”-  (Class): 没有生成任何文件，因为模板“StructTemplate.t4”的“AppliesToElement”方法的计算结果为 false。" />
+  <Message Timestamp="2013-08-23T16:08:40" Importance="Diagnostic" Text="“ReviewModelProject::IndustryType_Desc”-  (Class): 没有生成任何文件，因为模板“StructTemplate.t4”的“AppliesToElement”方法的计算结果为 false。" />
+  <Message Timestamp="2013-08-23T16:08:40" Importance="Diagnostic" Text="“ReviewModelProject::EnterPrise_Contact”-  (Class): 没有生成任何文件，因为模板“StructTemplate.t4”的“AppliesToElement”方法的计算结果为 false。" />
+  <Message Timestamp="2013-08-23T16:08:40" Importance="Diagnostic" Text="“ReviewModelProject::IndustryType”-  (Class): 没有生成任何文件，因为模板“StructTemplate.t4”的“AppliesToElement”方法的计算结果为 false。" />
+  <Message Timestamp="2013-08-23T16:08:40" Importance="Diagnostic" Text="选定内容包含未绑定到模板的 7 元素。" />
+  <Message Timestamp="2013-08-23T16:08:40" Importance="Diagnostic" Text="“8a51fb16-907f-4b42-8138-e0eee6453224”-  (Comment): 没有绑定的模板。" />
+  <Message Timestamp="2013-08-23T16:08:40" Importance="Diagnostic" Text="“ReviewModelProject::”-  (Association): 没有绑定的模板。" />
+  <Message Timestamp="2013-08-23T16:08:40" Importance="Diagnostic" Text="“ReviewModelProject::”-  (Association): 没有绑定的模板。" />
+  <Message Timestamp="2013-08-23T16:08:40" Importance="Diagnostic" Text="“ReviewModelProject::”-  (Association): 没有绑定的模板。" />
+  <Message Timestamp="2013-08-23T16:08:40" Importance="Diagnostic" Text="“ReviewModelProject::”-  (Association): 没有绑定的模板。" />
+  <Message Timestamp="2013-08-23T16:08:40" Importance="Diagnostic" Text="“ReviewModelProject::”-  (Association): 没有绑定的模板。" />
+  <Message Timestamp="2013-08-23T16:08:40" Importance="Diagnostic" Text="“ReviewModelProject::”-  (Association): 没有绑定的模板。" />
+  <Message Timestamp="2013-08-23T16:08:40" Importance="High" Text="代码生成完成。错误: 0。警告: 0。" />
+</Log>
